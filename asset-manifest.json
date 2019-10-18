@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/klarna-payments-integration-guide/static/css/main.62efec46.chunk.css",
+    "main.js": "/klarna-payments-integration-guide/static/js/main.593df725.chunk.js",
+    "runtime~main.js": "/klarna-payments-integration-guide/static/js/runtime~main.19791e9f.js",
+    "static/css/2.b61b8460.chunk.css": "/klarna-payments-integration-guide/static/css/2.b61b8460.chunk.css",
+    "static/js/2.68ddbcd7.chunk.js": "/klarna-payments-integration-guide/static/js/2.68ddbcd7.chunk.js",
+    "index.html": "/klarna-payments-integration-guide/index.html",
+    "precache-manifest.04465b2cd422f5af3e3e0004efc07613.js": "/klarna-payments-integration-guide/precache-manifest.04465b2cd422f5af3e3e0004efc07613.js",
+    "service-worker.js": "/klarna-payments-integration-guide/service-worker.js"
+  }
+}
